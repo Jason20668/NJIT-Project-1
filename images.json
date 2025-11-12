@@ -2,145 +2,145 @@
     "images": [
         {
             "imgPath": "img/digimon/Agumon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Agumon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Greymon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Greymon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Metal Greymon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Metal Greymon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Biyomon.jpg",
-            "imgLocation": "Austria",
+            "imgLocation": "Biyomon",
             "description": "Austrian chapel",
             "date": "01/02/2016"
         },
         {
             "imgPath": "img/digimon/Birdramon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Birdramon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Garudamon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Garudamon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Gabumon.jpg",
-            "imgLocation": "Paris",
+            "imgLocation": "Gabumon",
             "description": "Eiffel Tower",
             "date": "01/03/2016"
         },
         {
             "imgPath": "img/digimon/Garurumon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Garurumon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/digimon/Weregarurumon.jpg",
-            "imgLocation": "Australia",
+            "imgPath": "img/digimon/Weregarumon.jpg",
+            "imgLocation": "Weregarumon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Gatomon.jpg",
-            "imgLocation": "Greece",
+            "imgLocation": "Gatomon",
             "description": "Greek coastline",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/digimon/Angewomon.jpg",
-            "imgLocation": "Australia",
+            "imgPath": "img/digimon/Angewoman.jpg",
+            "imgLocation": "Angewoman",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Magnadramon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Magnadramon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Gomamon.jpg",
-            "imgLocation": "Hungary",
+            "imgLocation": "Gomamon",
             "description": "Budapest skyline",
             "date": "01/05/2016"
         },
         {
             "imgPath": "img/digimon/Ikkakumon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Ikkakumon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Zudomon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Zudomon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Palmon.jpg",
-            "imgLocation": "India",
+            "imgLocation": "Palmon",
             "description": "Taj Mahal",
             "date": "01/06/2016"
         },
         {
             "imgPath": "img/digimon/Togemon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Togemon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Lilymon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Lilymon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Patamon.jpg",
-            "imgLocation": "Italy",
+            "imgLocation": "Patamon",
             "description": "Venice",
             "date": "01/07/2016"
         },
         {
             "imgPath": "img/digimon/Angemon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Angemon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/MagnaAngemon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "MagnaAngemon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/Tentomon.jpg",
-            "imgLocation": "Japan",
+            "imgLocation": "Tentomon",
             "description": "Hirosaki Castle",
             "date": "01/08/2016"
         },
         {
             "imgPath": "img/digimon/Kabuterimon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "Kabuterimon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/digimon/MegaKabuterimon.jpg",
-            "imgLocation": "Australia",
+            "imgLocation": "MegaKabuterimon",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         }
