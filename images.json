@@ -1,79 +1,79 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
+            "imgPath": "img/digimon/Agumon.jpg",
             "imgLocation": "Australia",
             "description": "Loch Ard Gorge",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/austria.jpg",
+            "imgPath": "img/digimon/Biyomon.jpg",
             "imgLocation": "Austria",
             "description": "Austrian chapel",
             "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/france.jpg",
+            "imgPath": "img/digimon/Gabumon.jpg",
             "imgLocation": "Paris",
             "description": "Eiffel Tower",
             "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/greece.jpg",
+            "imgPath": "img/digimon/Gatomon.jpg",
             "imgLocation": "Greece",
             "description": "Greek coastline",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
+            "imgPath": "img/digimon/Gomamon.jpg",
             "imgLocation": "Hungary",
             "description": "Budapest skyline",
             "date": "01/05/2016"
         },
         {
-            "imgPath": "img/places/india.jpg",
+            "imgPath": "img/digimon/Palmon.jpg",
             "imgLocation": "India",
             "description": "Taj Mahal",
             "date": "01/06/2016"
         },
         {
-            "imgPath": "img/places/italy.jpg",
+            "imgPath": "img/digimon/Patamon.jpg",
             "imgLocation": "Italy",
             "description": "Venice",
             "date": "01/07/2016"
         },
         {
-            "imgPath": "img/places/japan.jpg",
+            "imgPath": "img/digimon/Tentomon.jpg",
             "imgLocation": "Japan",
             "description": "Hirosaki Castle",
             "date": "01/08/2016"
         },
         {
-            "imgPath": "img/places/korea.jpg",
+            "imgPath": "img/digimon/korea.jpg",
             "imgLocation": "South Korea",
             "description": "Seoul",
             "date": "01/09/2016"
         },
         {
-            "imgPath": "img/places/norway.jpg",
+            "imgPath": "img/digimon/norway.jpg",
             "imgLocation": "Norway",
             "description": "Countryside mountains",
             "date": "01/10/2016"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
+            "imgPath": "img/digimon/switzerland.jpg",
             "imgLocation": "Switzerland",
             "description": "Lake castle",
             "date": "01/11/2016"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
+            "imgPath": "img/digimon/thailand.jpg",
             "imgLocation": "Thailand",
             "description": "Beachline",
             "date": "01/12/2016"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
+            "imgPath": "img/digimon/turkey.jpg",
             "imgLocation": "Turkey",
             "description": "Istanbul",
             "date": "01/13/2016"
