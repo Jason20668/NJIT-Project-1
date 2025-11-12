@@ -20,7 +20,9 @@ startTimer();
     showNextPhoto();
   })
   // Select the "Previous Photo" button and add a click event to call showPrevPhoto
-
+  $('#prevPhoto').click( () => {
+    showPrevPhoto();
+  })
   // Call fetchJSON() to load the initial set of images
   fetchJSON()
 })
@@ -30,6 +32,15 @@ function fetchJSON () {
   // Use $.ajax here to request the JSON data from mUrl
   // On success, parse the JSON and push each image object into mImages array
   // After JSON is loaded, call swapPhoto() to display the first image
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "images.json", true);
+  xhr.onload = function() {
+    if (xhr.status === 200){
+      const data = JSON.parse(xhr.responseText);
+      const push = mImages.push(xhr);
+    }
+  };
+  swapPhoto();
 }
 
 // Function to swap and display the next photo in the slideshow
