@@ -3,146 +3,170 @@
         {
             "imgPath": "img/digimon/Agumon.jpg",
             "imgLocation": "Agumon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Koromon",
+            "background": "Red",
+            "date": "Greymon"
         },
         {
             "imgPath": "img/digimon/Greymon.jpg",
             "imgLocation": "Greymon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Agumon",
+            "background": "Red",
+            "date": "Metal Greymon"
         },
         {
             "imgPath": "img/digimon/Metal Greymon.jpg",
             "imgLocation": "Metal Greymon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Greymon",
+            "background": "Red",
+            "date": "War Greymon"
         },
         {
             "imgPath": "img/digimon/Biyomon.jpg",
             "imgLocation": "Biyomon",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "description": "Tokomon",
+            "background": "White",
+            "date": "Birdramon"
         },
         {
             "imgPath": "img/digimon/Birdramon.jpg",
             "imgLocation": "Birdramon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Biyomon",
+            "background": "White",
+            "date": "Garudamon"
         },
         {
             "imgPath": "img/digimon/Garudamon.jpg",
             "imgLocation": "Garudamon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Birdramon",
+            "background": "White",
+            "date": "Phoenixmon"
         },
         {
             "imgPath": "img/digimon/Gabumon.jpg",
             "imgLocation": "Gabumon",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "description": "Tsunomon",
+            "background": "Light Blue",
+            "date": "Garurumon"
         },
         {
             "imgPath": "img/digimon/Garurumon.jpg",
             "imgLocation": "Garurumon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Gabumon",
+            "background": "Light Blue",
+            "date": "Weregarurumon"
         },
         {
             "imgPath": "img/digimon/Weregarumon.jpg",
-            "imgLocation": "Weregarumon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgLocation": "Weregarurumon",
+            "description": "Garurumon",
+            "background": "Light Blue",
+            "date": "Metal Garurumon"
         },
         {
             "imgPath": "img/digimon/Gatomon.jpg",
             "imgLocation": "Gatomon",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "description": "Salomon",
+            "background": "Pink",
+            "date": "Angewoman"
         },
         {
             "imgPath": "img/digimon/Angewoman.jpg",
             "imgLocation": "Angewoman",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Gatomon",
+            "background": "Pink",
+            "date": "Magnadramon"
         },
         {
             "imgPath": "img/digimon/Magnadramon.jpg",
             "imgLocation": "Magnadramon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Angewoman",
+            "background": "Pink",
+            "date": "Ophanimon"
         },
         {
             "imgPath": "img/digimon/Gomamon.jpg",
             "imgLocation": "Gomamon",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "description": "Bukamon",
+            "background": "Blue",
+            "date": "Ikkakumon"
         },
         {
             "imgPath": "img/digimon/Ikkakumon.jpg",
             "imgLocation": "Ikkakumon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Gomamon",
+            "background": "Blue",
+            "date": "Zudomon"
         },
         {
             "imgPath": "img/digimon/Zudomon.jpg",
             "imgLocation": "Zudomon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Ikkakumon",
+            "background": "Blue",
+            "date": "Vikemon"
         },
         {
             "imgPath": "img/digimon/Palmon.jpg",
             "imgLocation": "Palmon",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "description": "Tanemon",
+            "background": "Green",
+            "date": "Togemon"
         },
         {
             "imgPath": "img/digimon/Togemon.jpg",
             "imgLocation": "Togemon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Palmon",
+            "background": "Green",
+            "date": "Lilymon"
         },
         {
             "imgPath": "img/digimon/Lilymon.jpg",
             "imgLocation": "Lilymon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Togemon",
+            "background": "Green",
+            "date": "Rosemon"
         },
         {
             "imgPath": "img/digimon/Patamon.jpg",
             "imgLocation": "Patamon",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "description": "Tokomon",
+            "background": "Yellow",
+            "date": "Angemon"
         },
         {
             "imgPath": "img/digimon/Angemon.jpg",
             "imgLocation": "Angemon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Patamon",
+            "background": "Yellow",
+            "date": "MagnaAngemon"
         },
         {
             "imgPath": "img/digimon/MagnaAngemon.jpg",
             "imgLocation": "MagnaAngemon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Angemon",
+            "background": "Yellow",
+            "date": "Seraphimon"
         },
         {
             "imgPath": "img/digimon/Tentomon.jpg",
             "imgLocation": "Tentomon",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "description": "Motimon",
+            "background": "Light Green",
+            "date": "Kabuterimon"
         },
         {
             "imgPath": "img/digimon/Kabuterimon.jpg",
             "imgLocation": "Kabuterimon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Tentomon",
+            "background": "Light Green",
+            "date": "MegaKabuterimon"
         },
         {
             "imgPath": "img/digimon/MegaKabuterimon.jpg",
             "imgLocation": "MegaKabuterimon",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "description": "Kabuterimon",
+            "background": "Light Green",
+            "date": "HerculesKabuterimon"
         }
   ]
 }
