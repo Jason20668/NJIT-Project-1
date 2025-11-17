@@ -65,3 +65,34 @@ function showPrevPhoto() {
   swapPhoto();
 }
 
+let mTimer;
+// timer after 5 seconds chnages to next one
+function startTimer() {
+  if (mTimer) {
+    clearInterval(mTimer);
+  }
+  mTimer = setInterval(() => {
+    showNextPhoto();
+  }, mWaitTime)
+}
+
+$('.moreIndicator').click(() => {
+  let currentImage = mImages[mCurrentIndex];
+  if (currentImage.background = "Red"){
+    $('.details').css("background-color", "red")
+  } else if (currentImage.background = "White"){
+    $('.details').css("background-color", "gray")
+  } else if (currentImage.background = "Light Blue"){
+    $('.details').css("background-color", "lightblue")
+  } else if (currentImage.background = "Pink"){
+    $('.details').css("background-color", "pink")
+  } else if (currentImage.background = "Blue"){
+    $('.details').css("background-color", "darkblue")
+  } else if (currentImage.background = "Green"){
+    $('.details').css("background-color", "green")
+  } else if (currentImage.background = "Yellow"){
+    $('.details').css("background-color", "yellow")
+  } else{
+    $('.details').css("background-color", "lightgreen")
+  }
+})
