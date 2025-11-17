@@ -4,168 +4,168 @@
             "imgPath": "img/digimon/Agumon.jpg",
             "imgLocation": "Agumon",
             "description": "Koromon",
-            "background": "Red",
+            "background": "#FF0000",
             "date": "Greymon"
         },
         {
             "imgPath": "img/digimon/Greymon.jpg",
             "imgLocation": "Greymon",
             "description": "Agumon",
-            "background": "Red",
+            "background": "#FF0000",
             "date": "Metal Greymon"
         },
         {
             "imgPath": "img/digimon/Metal Greymon.jpg",
             "imgLocation": "Metal Greymon",
             "description": "Greymon",
-            "background": "Red",
+            "background": "#FF0000",
             "date": "War Greymon"
         },
         {
             "imgPath": "img/digimon/Biyomon.jpg",
             "imgLocation": "Biyomon",
             "description": "Tokomon",
-            "background": "White",
+            "background": "#EBDFDF",
             "date": "Birdramon"
         },
         {
             "imgPath": "img/digimon/Birdramon.jpg",
             "imgLocation": "Birdramon",
             "description": "Biyomon",
-            "background": "White",
+            "background": "#EBDFDF",
             "date": "Garudamon"
         },
         {
             "imgPath": "img/digimon/Garudamon.jpg",
             "imgLocation": "Garudamon",
             "description": "Birdramon",
-            "background": "White",
+            "background": "#EBDFDF",
             "date": "Phoenixmon"
         },
         {
             "imgPath": "img/digimon/Gabumon.jpg",
             "imgLocation": "Gabumon",
             "description": "Tsunomon",
-            "background": "Light Blue",
+            "background": "#00F2FF",
             "date": "Garurumon"
         },
         {
             "imgPath": "img/digimon/Garurumon.jpg",
             "imgLocation": "Garurumon",
             "description": "Gabumon",
-            "background": "Light Blue",
+            "background": "#00F2FF",
             "date": "Weregarurumon"
         },
         {
             "imgPath": "img/digimon/Weregarumon.jpg",
             "imgLocation": "Weregarurumon",
             "description": "Garurumon",
-            "background": "Light Blue",
+            "background": "#00F2FF",
             "date": "Metal Garurumon"
         },
         {
             "imgPath": "img/digimon/Gatomon.jpg",
             "imgLocation": "Gatomon",
             "description": "Salomon",
-            "background": "Pink",
+            "background": "#FF5799",
             "date": "Angewoman"
         },
         {
             "imgPath": "img/digimon/Angewoman.jpg",
             "imgLocation": "Angewoman",
             "description": "Gatomon",
-            "background": "Pink",
+            "background": "#FF5799",
             "date": "Magnadramon"
         },
         {
             "imgPath": "img/digimon/Magnadramon.jpg",
             "imgLocation": "Magnadramon",
             "description": "Angewoman",
-            "background": "Pink",
+            "background": "#FF5799",
             "date": "Ophanimon"
         },
         {
             "imgPath": "img/digimon/Gomamon.jpg",
             "imgLocation": "Gomamon",
             "description": "Bukamon",
-            "background": "Blue",
+            "background": "#3329FF",
             "date": "Ikkakumon"
         },
         {
             "imgPath": "img/digimon/Ikkakumon.jpg",
             "imgLocation": "Ikkakumon",
             "description": "Gomamon",
-            "background": "Blue",
+            "background": "#3329FF",
             "date": "Zudomon"
         },
         {
             "imgPath": "img/digimon/Zudomon.jpg",
             "imgLocation": "Zudomon",
             "description": "Ikkakumon",
-            "background": "Blue",
+            "background": "#3329FF",
             "date": "Vikemon"
         },
         {
             "imgPath": "img/digimon/Palmon.jpg",
             "imgLocation": "Palmon",
             "description": "Tanemon",
-            "background": "Green",
+            "background": "#00821A",
             "date": "Togemon"
         },
         {
             "imgPath": "img/digimon/Togemon.jpg",
             "imgLocation": "Togemon",
             "description": "Palmon",
-            "background": "Green",
+            "background": "#00821A",
             "date": "Lilymon"
         },
         {
             "imgPath": "img/digimon/Lilymon.jpg",
             "imgLocation": "Lilymon",
             "description": "Togemon",
-            "background": "Green",
+            "background": "#00821A",
             "date": "Rosemon"
         },
         {
             "imgPath": "img/digimon/Patamon.jpg",
             "imgLocation": "Patamon",
             "description": "Tokomon",
-            "background": "Yellow",
+            "background": "#F8FFBD",
             "date": "Angemon"
         },
         {
             "imgPath": "img/digimon/Angemon.jpg",
             "imgLocation": "Angemon",
             "description": "Patamon",
-            "background": "Yellow",
+            "background": "#F8FFBD",
             "date": "MagnaAngemon"
         },
         {
             "imgPath": "img/digimon/MagnaAngemon.jpg",
             "imgLocation": "MagnaAngemon",
             "description": "Angemon",
-            "background": "Yellow",
+            "background": "#F8FFBD",
             "date": "Seraphimon"
         },
         {
             "imgPath": "img/digimon/Tentomon.jpg",
             "imgLocation": "Tentomon",
             "description": "Motimon",
-            "background": "Light Green",
+            "background": "#82F25C",
             "date": "Kabuterimon"
         },
         {
             "imgPath": "img/digimon/Kabuterimon.jpg",
             "imgLocation": "Kabuterimon",
             "description": "Tentomon",
-            "background": "Light Green",
+            "background": "#82F25C",
             "date": "MegaKabuterimon"
         },
         {
             "imgPath": "img/digimon/MegaKabuterimon.jpg",
             "imgLocation": "MegaKabuterimon",
             "description": "Kabuterimon",
-            "background": "Light Green",
+            "background": "#82F25C",
             "date": "HerculesKabuterimon"
         }
   ]
