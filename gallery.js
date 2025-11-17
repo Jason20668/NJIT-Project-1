@@ -44,3 +44,24 @@ function swapPhoto() {
   $('.description').text(`Previous Digivolution: ${currentImage.description}`)
   $('.date').text(`Next Digivolution: ${currentImage.date}`)
 }
+
+// Advances to the next photo, loops to the first photo if the end of array is reached
+function showNextPhoto() {
+  startTimer();
+  mCurrentIndex++;
+  if (mCurrentIndex >= mImages.length) {
+    mCurrentIndex = 0
+  }
+  swapPhoto();
+}
+
+// Goes to the previous photo, loops to the last photo if mCurrentIndex goes negative
+function showPrevPhoto() {
+  startTimer();
+  mCurrentIndex--;
+  if (mCurrentIndex < 0) {
+    mCurrentIndex = mImages.length - 1
+  }
+  swapPhoto();
+}
+
